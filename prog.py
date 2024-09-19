@@ -13,5 +13,14 @@ elif op == "*":
     print(a * b)
 else:
     print(a / b)
+<<<<<<< HEAD
 print("end")
 print("Конец")
+=======
+
+
+
+
+
+print("GitHub!")
+>>>>>>> b7c77e3 (C3)
