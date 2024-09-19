@@ -14,3 +14,4 @@ elif op == "*":
 else:
     print(a / b)
 print("end")
+print("Конец")
